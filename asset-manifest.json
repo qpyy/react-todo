@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/react-todo/static/css/main.52d77be8.css",
+    "main.css": "/react-todo/static/css/main.5ebb3db2.css",
     "main.js": "/react-todo/static/js/main.775d2c7e.js",
     "static/js/787.38f16daf.chunk.js": "/react-todo/static/js/787.38f16daf.chunk.js",
     "static/media/bright-star-planet-galaxy-nebula-rockets.jpg": "/react-todo/static/media/bright-star-planet-galaxy-nebula-rockets.fed4ebd00252e4a5f384.jpg",
     "index.html": "/react-todo/index.html",
-    "main.52d77be8.css.map": "/react-todo/static/css/main.52d77be8.css.map",
+    "main.5ebb3db2.css.map": "/react-todo/static/css/main.5ebb3db2.css.map",
     "main.775d2c7e.js.map": "/react-todo/static/js/main.775d2c7e.js.map",
     "787.38f16daf.chunk.js.map": "/react-todo/static/js/787.38f16daf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.52d77be8.css",
+    "static/css/main.5ebb3db2.css",
     "static/js/main.775d2c7e.js"
   ]
 }
